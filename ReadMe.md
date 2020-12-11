@@ -12,7 +12,7 @@
     An awesome CLI App made with 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="20" height="20"/> and some :heart:.
     <br />
-    <a href="https://repl.it/@ApurvChimralwar/markOne-CLI-APP-Do-you-know-me?​embed=1&output=1">Play with it Here</a>
+    <a href="https://repl.it/@ApurvChimralwar/markOne-CLI-APP-Do-you-know-me?embed=1&output=1"> :rocket:Play with it Here</a>
   </p>
 </p>
 
@@ -24,7 +24,7 @@
 
 A javaScript ClL project which asks the user about how much do you know me?
 
-Project Link: [Hosted on repl.it](https://repl.it/@ApurvChimralwar/markOne-CLI-APP-Do-you-know-me?​embed=1&output=1)
+Project Link: [Hosted on repl.it](https://repl.it/@ApurvChimralwar/markOne-CLI-APP-Do-you-know-me?embed=1&output=1)
 
 ### Built With
 

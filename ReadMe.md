@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A javaScript ClL project which asks the user about how much do you know me?
+A javaScript CLI project which asks the user about how much do you know me?
 
 Project Link: [Hosted on repl.it](https://repl.it/@ApurvChimralwar/markOne-CLI-APP-Do-you-know-me?embed=1&output=1)
 

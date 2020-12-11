@@ -10,7 +10,7 @@
 
   <p align="center">
     An awesome CLI App made with 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="20" height="20"/> and some :heart:.
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="20" height="20"/> and :heart:.
     <br />
     <a href="https://repl.it/@ApurvChimralwar/markOne-CLI-APP-Do-you-know-me?embed=1&output=1"> :rocket:Play with it Here</a>
   </p>
